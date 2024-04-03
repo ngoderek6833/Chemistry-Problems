@@ -88,3 +88,16 @@
     cursor: pointer;
 }
 
+#imageDIV {
+    margin-top: 200px;
+    text-align: center;
+}
+
+#image {
+    width: 400px;
+}
+
+#imageSPAN {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(158, 196, 24);
+}
