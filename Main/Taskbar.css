@@ -105,7 +105,7 @@ body {
 .dropdown .content.Electrochemistry{
     display: none;
     position: absolute;
-  
+    background-color: rgb(87, 84, 84);
 }
 
 
